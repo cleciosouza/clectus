@@ -1,7 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+
 html,
 body,
 div,
@@ -135,7 +132,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #393E46;
-  background: url('https://raw.githubusercontent.com/cleciosouza/clectus/refs/heads/main/bg-red-blur.jpg');
+  background: url('https://clectus.vercel.app/bg-red-blur.jpg');
   background-size: cover;
 }
 .main__container {
